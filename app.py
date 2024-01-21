@@ -3,7 +3,7 @@ from googlesearch import search
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = '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'
 
 # Streamlit app
 st.title("Dynamic Chatbot with Google Search and OpenAI")
