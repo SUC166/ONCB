@@ -1,0 +1,2 @@
+googlesearch-python==1.0.1
+openai==0.28.0
